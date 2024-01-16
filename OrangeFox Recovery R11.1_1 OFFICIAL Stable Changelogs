@@ -1,0 +1,12 @@
+OrangeFox Recovery R11.1_1 OFFICIAL Stable Changelog:
+
+- Integrated Murali A14 Kernel v4.19.304
+- Added ODM Partition
+- Enabled Fuse Passthrough
+- Corrected AVB and Dynamic Partitions configuration.
+- Updated Fastboot Mock to 1.1 
+- Updated Boot Control to 1.2
+- Included F2FS utilities
+- Adopted LZ4 Compression
+- Fixed Flash Current Recovery 
+- Added Support for Android 14
